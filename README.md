@@ -6,7 +6,7 @@ Arachnophobia was originally made because I suffer from arachnophobia and could 
 
 ## What does this mod do, exactly?
 Arachnophobia completely prevents the `spider` and `cave-spider` entities from spawning into your Minecraft world. 
-It also makes string craftable with wool and makes zombies occasionally drop spider-eyes. 
+It also makes string craftable with wool and makes zombies occasionally drop spider-eyes. More extensive changelogs for each version of the mod can be found in each release's description.  
 
 Arachnophobia does *not* do any of the following: 
  - It does not prevent spider and cave-spider spawner blocks from generating; 
